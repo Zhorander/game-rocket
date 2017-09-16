@@ -13,3 +13,7 @@ Todo:
 Stretch:
 1. Disassembler
 2. Add gameboy color support
+
+resources:
+opcodes: http://pastraiser.com/cpu/gameboy/gameboy_opcodes.html
+CPU manual: http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf
